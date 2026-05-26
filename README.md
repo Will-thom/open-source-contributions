@@ -41,3 +41,7 @@ Mutable status fields such as review state or CI state are intentionally omitted
 - [Python](python/README.md) - 18 contributions
 - [Ruby](ruby/README.md) - 15 contributions
 - [TypeScript](typescript/README.md) - 10 contributions
+
+## Additional Technical Explorations
+
+A small set of [technical explorations](technical-explorations/README.md) is kept separately from the main contribution notes. These records document useful OSS investigation and iteration while leaving the official pull request as the source of truth.
