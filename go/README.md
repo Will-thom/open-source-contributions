@@ -9,3 +9,7 @@
 
 - [PR #380: Technical analysis indicator coverage](indicator/pr-380-rate-of-change-slope.md)
 
+## Ollama
+
+- [PR #16233: Focused correctness](ollama/pr-16233-cmd-show-optional-prefix-in-list-help.md)
+

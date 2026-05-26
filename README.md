@@ -31,13 +31,13 @@ Mutable status fields such as review state or CI state are intentionally omitted
 
 ## Ecosystems
 
-- [.NET](dotnet/README.md) - 2 contributions
-- [Go](go/README.md) - 3 contributions
+- [.NET](dotnet/README.md) - 3 contributions
+- [Go](go/README.md) - 4 contributions
 - [iOS](ios/README.md) - 2 contributions
-- [Java](java/README.md) - 3 contributions
+- [Java](java/README.md) - 11 contributions
 - [JavaScript](javascript/README.md) - 3 contributions
 - [Kotlin](kotlin/README.md) - 1 contribution
-- [PHP](php/README.md) - 3 contributions
-- [Python](python/README.md) - 6 contributions
-- [Ruby](ruby/README.md) - 6 contributions
-- [TypeScript](typescript/README.md) - 4 contributions
+- [PHP](php/README.md) - 5 contributions
+- [Python](python/README.md) - 18 contributions
+- [Ruby](ruby/README.md) - 15 contributions
+- [TypeScript](typescript/README.md) - 10 contributions
