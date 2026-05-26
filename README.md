@@ -14,7 +14,7 @@ dotnet/
     pr-13244-rating-mobile-width.md
 php/
   symfony/
-    pr-64359-validation-messageformat-regex.md
+    pr-64359-svg-dimension-validation.md
 ```
 
 ## Note Format
@@ -31,4 +31,13 @@ Mutable status fields such as review state or CI state are intentionally omitted
 
 ## Ecosystems
 
-This index is updated as contribution notes are added.
+- [.NET](dotnet/README.md) - 2 contributions
+- [Go](go/README.md) - 3 contributions
+- [iOS](ios/README.md) - 2 contributions
+- [Java](java/README.md) - 3 contributions
+- [JavaScript](javascript/README.md) - 3 contributions
+- [Kotlin](kotlin/README.md) - 1 contribution
+- [PHP](php/README.md) - 3 contributions
+- [Python](python/README.md) - 6 contributions
+- [Ruby](ruby/README.md) - 6 contributions
+- [TypeScript](typescript/README.md) - 4 contributions
