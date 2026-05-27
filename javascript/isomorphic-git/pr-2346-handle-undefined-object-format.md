@@ -27,4 +27,4 @@ This contribution made object writing resilient when repository format metadata 
 ## Key Learnings
 
 - Git metadata often relies on defaults, so storage code must distinguish absent configuration from unsupported configuration.
-- Small compatibility fixes in object writing can have broad effects across higher-level commands.
+- Focused compatibility fixes in object writing can have broad effects across higher-level commands.

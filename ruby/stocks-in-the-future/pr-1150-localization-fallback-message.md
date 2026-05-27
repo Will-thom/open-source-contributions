@@ -27,4 +27,4 @@ This contribution removed a local message override so the application could rely
 ## Key Learnings
 
 - Localized applications should avoid one-off message paths when a shared translation key exists.
-- Small UI text fixes can still carry value when they reduce inconsistency across workflows.
+- Focused UI text fixes can still carry value when they reduce inconsistency across workflows.

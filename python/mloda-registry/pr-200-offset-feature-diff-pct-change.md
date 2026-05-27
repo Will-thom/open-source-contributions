@@ -27,4 +27,4 @@ This contribution implemented offset-derived feature variants so grouped time-ba
 ## Key Learnings
 
 - Feature registries need consistent naming and partition semantics across related operations.
-- Small feature additions are strongest when they follow the existing registry contract closely.
+- Scoped feature additions are strongest when they follow the existing registry contract closely.

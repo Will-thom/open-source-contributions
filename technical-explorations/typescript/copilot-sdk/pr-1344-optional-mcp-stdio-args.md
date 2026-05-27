@@ -28,4 +28,4 @@ This technical exploration normalized optional MCP stdio args across SDK surface
 ## Key Learnings
 
 - Multi-language SDKs need consistent wire behavior even when each language models optional values differently.
-- Small type-contract changes can have broad validation cost across generated payloads and client implementations.
+- Targeted type-contract changes can have broad validation cost across generated payloads and client implementations.

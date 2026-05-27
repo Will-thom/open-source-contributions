@@ -27,4 +27,4 @@ This contribution added first-class query-builder support for Memgraph DATA DIRE
 ## Key Learnings
 
 - Query-builder commands that return data need fetch semantics even without a RETURN clause.
-- Small client-library additions benefit from focused tests that do not require a database process.
+- Targeted client-library additions benefit from focused tests that do not require a database process.
