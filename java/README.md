@@ -20,3 +20,7 @@
 - [PR #36824: Regression coverage](spring-framework/pr-36824-add-testcompiler-deprecation-warning-shortcut.md)
 - [PR #36825: Regression coverage](spring-framework/pr-36825-close-contexts-when-clearing-test-context-cache.md)
 - [PR #36832: Validation message rendering correctness](spring-framework/pr-36832-validation-messageformat-regex.md)
+
+## Apache Atlas
+
+- [PR #652: Import/export API documentation](atlas/pr-652-apache-atlas.md)

@@ -38,7 +38,7 @@ Mutable status fields such as review state or CI state are intentionally omitted
 - [Elixir](elixir/README.md) - 1 contribution
 - [Go](go/README.md) - 4 contributions
 - [iOS](ios/README.md) - 2 contributions
-- [Java](java/README.md) - 12 contributions
+- [Java](java/README.md) - 13 contributions
 - [JavaScript](javascript/README.md) - 10 contributions
 - [Kotlin](kotlin/README.md) - 6 contributions
 - [PHP](php/README.md) - 5 contributions
