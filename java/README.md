@@ -10,10 +10,13 @@
 - [PR #12146: Runtime correctness](maven/pr-12146-handle-missing-package-metadata-in-model-ids.md)
 - [PR #12147: Runtime correctness](maven/pr-12147-avoid-reflective-inputsource-modelid-mutation.md)
 
+## Gradle Profiler
+
+- [PR #791: Scenario argument documentation](gradle-profiler/pr-791-document-task-and-gradle-args.md)
+
 ## Spring Framework
 
 - [PR #36823: Runtime correctness](spring-framework/pr-36823-reject-competing-spel-accessors.md)
 - [PR #36824: Regression coverage](spring-framework/pr-36824-add-testcompiler-deprecation-warning-shortcut.md)
 - [PR #36825: Regression coverage](spring-framework/pr-36825-close-contexts-when-clearing-test-context-cache.md)
 - [PR #36832: Validation message rendering correctness](spring-framework/pr-36832-validation-messageformat-regex.md)
-

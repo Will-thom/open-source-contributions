@@ -14,7 +14,7 @@ This contribution fixed a CLI regression where symbol IDs included relative dire
 
 ## Technical Value
 
-- Restores compatibility for builds that rely on simple filename-based symbol IDs.
+- Restores compatibility for builds that rely on filename-based symbol IDs.
 - Keeps default namespaced behavior intact for users who want directory-derived uniqueness.
 - Adds targeted regression coverage at the shape-construction layer.
 
